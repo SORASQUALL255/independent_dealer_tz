@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'ind_dealer.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'auto_dealers',
-        'USER': 'postgres',
-        'PASSWORD': 'TZ255',
-        'HOST': 'localhost',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
         'PORT': '',
     }
 }
